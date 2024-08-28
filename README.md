@@ -9,14 +9,13 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE Second year student.
+- 👨‍💻 I'm a B-Tech DATA SCIENCE(CSE) Second year student.
 
-- 🔭 I’m currently working on **FULL STACK WEB DEVELOPMENT** & focusing on **C++ Datastructure**  
+- 🔭 I’m currently working on **DATA ANALYTICS** & focusing on **C++ Datastructure**  
 
-- 🌱 I’m currently developing and learning **JavaScript other full-stack tools.**
+- 🌱 I’m currently developing and learning **PWOER BI AND PYTHON **
 
 - ⚡ Fun fact : **"🚀 Exploring the realms of code & creativity! 🎨✨"** 
-
 --- 
 
 ### 🔥 My Stats 
@@ -43,21 +42,21 @@ My Email ID - sager.kanojiya19@gmail.com
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/sagar-kanojiya-925890256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMvJSnEK0QqOlOQesheVv0w%3D%3">
+    <a href="https://www.linkedin.com/in/sagar-kanojiya-925890256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMvJSnEK0QqOlOQesheVv0w%3D%3" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.kishansinghthakur27@gmail.com"
+     <a href="" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://www.geeksforgeeks.org/user/sagerkanag65/">
+    <a href="https://www.geeksforgeeks.org/user/sagerkanag65/" target="blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
     </a>
     <a href="https://leetcode.com/u/sagarkanojiya19/" target="blank">
     <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="kishan1236" height="29" width="120" />
     </a>
-    <a href="" target="blank">
+    <a href="https://x.com/SagerKanojiya19" target="blank">
     <img src="https://w7.pngwing.com/pngs/424/95/png-transparent-twitter-3d-twitter-twitter-logo-3d-twitter-logo-social-media-logo-3d-icon.png" alt="kishan1236" height="29" width="30" />
-    </a>
+    
 </div>
 
 ---
