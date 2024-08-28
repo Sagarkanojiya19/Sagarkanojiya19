@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="1100" 
-     height="390"/>
+  <img src="https://cdn.dribbble.com/users/594393/screenshots/14508930/media/a0c3dd10e43c03e9d2452276e09ae089.gif" width="1100" 
+     height="520"/>
 </div>
 
 <h2 align="center">Hi 👋, I'm SAGER KANOJIYA</h2>
