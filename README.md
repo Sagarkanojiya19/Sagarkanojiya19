@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-768x432.png" alt="CSS" width="50" height="40"/>&nbsp;
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp; -->
+  <img src="https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=k3edqLFjWyFC1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG22.png&ehk=ffHItQzD%2fUaKL%2bPOiED3dtDd9YUI%2fJRUzYL5raCZnR8%3d&risl=&pid=ImgRaw&r=0" alt="JavaScript" width="55" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
  
 </div>
