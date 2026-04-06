@@ -9,7 +9,7 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech DATA SCIENCE(CSE) Third year student.
+- 👨‍💻 I'm a B-Tech DATA SCIENCE(CSE) Fourth year student.
 
 - 🔭 I’m currently working on **DATA ANALYTICS** & focusing on **C++ Datastructure**  
 
