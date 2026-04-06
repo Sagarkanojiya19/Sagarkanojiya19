@@ -11,9 +11,9 @@
 ### 👦 About Me
 - 👨‍💻 I'm a B-Tech DATA SCIENCE(CSE) Fourth year student.
 
-- 🔭 I’m currently working on **DATA ANALYTICS** & focusing on **C++ Datastructure**  
+- 🔭 I’m currently working on **DEEP LEARNING** & focusing on **C++ Datastructure**  
 
-- 🌱 I’m currently developing and learning **PWOER BI AND PYTHON **
+- 🌱 I’m currently developing and learning **MACHINE LEARNING AND DEEP LEARNING**
 
 - ⚡ Fun fact : **"🚀 Exploring the realms of code & creativity! 🎨✨"** 
 --- 
